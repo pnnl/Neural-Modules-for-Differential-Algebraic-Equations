@@ -36,7 +36,7 @@ dependencies = [
     "dill",
     "graphviz",
     "matplotlib",
-    "mlflow==2.5.0",
+    "mlflow==3.16.0",
     "networkx==3.0.0",
     "numpy<1.24.0",
     "pandas",
